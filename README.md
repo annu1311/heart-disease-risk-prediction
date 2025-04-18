@@ -1,7 +1,7 @@
 🫀 Heart Disease Risk Prediction using Machine Learning.
 
 
-Hi there! I'm Anushka 👋 and this is one of my ML-powered health-focused projects where we predict the risk of heart disease using machine learning algorithms. 💻
+Hi there! I'm Anushka and Discussed and brainstormed with [@AbhishekkPatilll](https://github.com/AbhishekkPatilll) this is one of our ML-powered health-focused projects where we predict the risk of heart disease using machine learning algorithms. 💻
 
 📌 About the Project
 This project aims to build a predictive model that can assess the likelihood of a person developing heart disease based on medical attributes. It showcases end-to-end implementation from data preprocessing to model evaluation, all built with care and code.
